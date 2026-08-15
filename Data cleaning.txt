@@ -1,0 +1,46 @@
+D206 – Data Cleaning
+
+Student: CMSWGUSTUDENT
+Institution: Western Governors University (WGU)
+Course: D206 – Data Cleaning
+
+───
+
+Project Overview
+
+This repository contains the files and documentation for the Data Cleaning project completed in D206 at Western Governors University.
+
+The purpose of this project was to clean and prepare a raw dataset for analysis by identifying and resolving common data quality issues such as missing values, duplicates, inconsistencies, and outliers.
+
+───
+
+Project Objectives
+
+• Assess the quality of a raw dataset
+• Identify and document data quality issues
+• Apply appropriate data cleaning techniques
+• Produce a clean, analysis-ready dataset
+• Document the cleaning process and decisions made
+
+───
+
+Key Tasks Completed
+
+• Data quality assessment
+• Handling missing values
+• Removing or resolving duplicate records
+• Standardizing formats and correcting inconsistencies
+• Detecting and treating outliers
+• Creating a cleaned version of the dataset
+• Documenting all cleaning steps and justifications
+
+───
+
+Skills Demonstrated
+
+• Data Cleaning
+• Data Quality Assessment
+• Data Wrangling
+• Critical Thinking & Decision Making
+• Technical Documentation
+• Attention to Detail

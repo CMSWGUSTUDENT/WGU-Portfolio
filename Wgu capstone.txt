@@ -1,0 +1,22 @@
+Capstone Project
+
+Student: CMSWGUSTUDENT
+Institution: Western Governors University (WGU)
+Course: Capstone
+
+───
+
+Project Overview
+
+This repository contains the files and documentation for my Capstone project completed as part of my degree program at Western Governors University.
+
+The Capstone represents the culmination of the knowledge and skills developed throughout the program. It demonstrates the ability to apply technical concepts, solve real-world problems, and deliver a complete, professional solution.
+
+───
+
+Project Description
+
+(Replace this section with a short description of your actual Capstone project.)
+
+Example:
+ This project involved [briefly describe what you built or analyzed], with the goal of [state the main objective]. The final deliverable included [list main components such as code, documentation, presentation, etc.].

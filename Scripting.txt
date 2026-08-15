@@ -1,0 +1,45 @@
+C867 – Scripting and Programming Applications
+
+Student: CMSWGUSTUDENT
+Institution: Western Governors University (WGU)
+Course: C867 – Scripting and Programming Applications
+
+───
+
+Project Overview
+
+This repository contains the files and documentation for the Scripting and Programming Applications project completed in C867 at Western Governors University.
+
+The purpose of this project was to design and implement a functional application using object-oriented programming principles, demonstrating the ability to write clean, modular, and maintainable code.
+
+───
+
+Project Objectives
+
+• Apply object-oriented programming concepts
+• Design and implement classes and objects
+• Manage data using appropriate data structures
+• Create a functional console or application-based program
+• Demonstrate proper coding standards and documentation
+
+───
+
+Key Features
+
+• Class design and implementation
+• Object creation and manipulation
+• Data input and validation
+• Program logic and control structures
+• Output formatting and user interaction
+• Code organization and readability
+
+───
+
+Skills Demonstrated
+
+• Object-Oriented Programming (OOP)
+• C++ Programming
+• Class & Object Design
+• Problem Solving
+• Code Documentation
+• Version Control (Git & GitHub)

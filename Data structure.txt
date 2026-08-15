@@ -1,0 +1,45 @@
+C950 – Data Structures and Algorithms II
+
+Student: CMSWGUSTUDENT
+Institution: Western Governors University (WGU)
+Course: C950 – Data Structures and Algorithms II
+
+───
+
+Project Overview
+
+This repository contains the files and documentation for the Data Structures and Algorithms project completed in C950 at Western Governors University.
+
+The purpose of this project was to design and implement an efficient solution using appropriate data structures and algorithms to solve a real-world routing/optimization problem.
+
+───
+
+Project Objectives
+
+• Analyze a complex problem and select suitable data structures
+• Implement efficient algorithms for searching, sorting, or pathfinding
+• Optimize performance and resource usage
+• Create a functional and well-documented program
+• Evaluate the time and space complexity of the solution
+
+───
+
+Key Features
+
+• Implementation of core data structures (e.g., hash tables, trees, graphs, or lists)
+• Algorithm design for efficient data processing
+• Input handling and data validation
+• Performance considerations and optimization
+• Clear program output and results reporting
+
+───
+
+Skills Demonstrated
+
+• Data Structures
+• Algorithm Design & Analysis
+• Problem Solving
+• Object-Oriented Programming
+• Code Optimization
+• Technical Documentation
+• Version Control (Git & GitHub)

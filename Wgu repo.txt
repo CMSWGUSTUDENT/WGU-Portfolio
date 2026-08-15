@@ -1,0 +1,67 @@
+WGU Portfolio
+
+Student: CMSWGUSTUDENT
+Institution: Western Governors University (WGU)
+
+This repository contains selected academic projects completed during my studies at Western Governors University. It serves as a living portfolio to document my learning, technical growth, and the practical skills I am developing through WGU’s competency-based education model.
+
+───
+
+Purpose
+
+The goal of this portfolio is to:
+• Showcase real projects completed during my WGU coursework
+• Demonstrate applied skills in a clear and professional way
+• Provide concrete examples of my work for potential employers and mentors
+• Track my academic and professional progress over time
+
+───
+
+Featured Projects
+
+
+Project
+Description
+Key Skills
+
+Coming Soon
+Project description will be added here
+Skills will be listed here
+
+Coming Soon
+Project description will be added here
+Skills will be listed here
+
+Coming Soon
+Project description will be added here
+Skills will be listed here
+
+
+
+(Projects will be added as they are completed and polished.)
+
+───
+
+Skills in Progress
+
+• Problem Solving
+• Technical Documentation
+• Version Control (Git & GitHub)
+• Continuous Learning
+• Professional Communication
+
+───
+
+How to Navigate
+
+Each project folder contains:
+• Source files / code
+• Documentation or README
+• Any supporting materials related to the assignment
+
+Feel free to explore the repositories and review the work.
+
+───
+
+Thank you for visiting my portfolio.
+ I am continuously updating this space as I complete more courses and projects at WGU.
